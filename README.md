@@ -1,0 +1,1 @@
+Working on this project has significantly clarified many HTML and CSS concepts for me. I've particularly gained a deeper understanding of how to create responsive web designs, ensuring that the site functions well across various devices and screen sizes.
